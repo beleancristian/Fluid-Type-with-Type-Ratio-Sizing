@@ -1,0 +1,77 @@
+h6,
+.h6,
+.text6 {
+  font-size: 120%;
+  line-height: calc(2px + 2ex + 2px);
+  margin-bottom: 0.65em;
+}
+
+h5,
+.h5,
+.text5 {
+  font-size: 144%;
+  line-height: calc(2px + 2ex + 2px);
+  margin-bottom: 0.65em;
+}
+
+h4,
+.h4,
+.text4 {
+  font-size: 172.8%;
+  line-height: calc(2px + 2ex + 2px);
+  margin-bottom: 0.65em;
+}
+
+h3,
+.h3,
+.text3 {
+  font-size: 207.36%;
+  line-height: calc(2px + 2ex + 2px);
+  margin-bottom: 0.65em;
+}
+
+h2,
+.h2,
+.text2 {
+  font-size: 248.832%;
+  line-height: calc(2px + 2ex + 2px);
+  margin-bottom: 0.65em;
+}
+
+h1,
+.h1,
+.text1 {
+  font-size: 298.5984%;
+  line-height: calc(2px + 2ex + 2px);
+  margin-bottom: 0.65em;
+}
+
+p,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  word-break: break-word;
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+  margin-top: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 100%;
+  font-family: "Merriweather Sans", sans-serif;
+  line-height: 1.5;
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  margin: 0 2rem;
+  color: #333;
+}/*# sourceMappingURL=style.css.map */
